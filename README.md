@@ -1,0 +1,2 @@
+# task5
+INNER, LEFT, RIGHT, FULL, CROSS, and SELF JOINs
